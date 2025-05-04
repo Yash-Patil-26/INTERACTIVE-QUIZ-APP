@@ -12,6 +12,8 @@
 
 *MENTOR* : NEELA SANTHOSH
 
+**OUTPUT** :
+![Image](https://github.com/user-attachments/assets/ec1277ec-2129-4def-b8d6-96b93b1aaf9e)
 
 *DESCRIPTION* : 
 
@@ -34,7 +36,3 @@ The *Quiz App* is an interactive web-based application that allows users to test
 2. Upon selecting an answer, feedback is displayed immediately.  
 3. The next question appears until all questions are answered.  
 4. At the end, the user sees their total score.  
-
-
-**OUTPUT** :
-![Image](https://github.com/user-attachments/assets/ec1277ec-2129-4def-b8d6-96b93b1aaf9e)
